@@ -12,7 +12,7 @@ cd $PROJECT_DIR
 # Vérifier l'état du dépôt Git
 git status
 
-# Ajouter tous les nouveaux fichiers et modifications à Git
+# Ajouter tous les nouveaux fichiers, modifications et nouveaux dossiers
 git add .
 
 # Vérifier s'il y a quelque chose à committer
